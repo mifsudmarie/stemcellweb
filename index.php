@@ -24,19 +24,19 @@
 				<span style="font-family: gillsans">
 	        <ul class="navbar-nav ml-auto flex-nowrap pl-5 ml-5">
 	            <li class="nav-item">
-	                <a href="#" class="nav-link m-2 menu-item nav-active">About</a>
+	                <a href="#about" class="nav-link m-2 menu-item nav-active">About</a>
 	            </li>
 	            <li class="nav-item">
-	                <a href="#" class="nav-link m-2 menu-item">Technology</a>
+	                <a href="#tech" class="nav-link m-2 menu-item">Technology</a>
 	            </li>
 	            <li class="nav-item">
-	                <a href="#" class="nav-link m-2 menu-item">Novelty</a>
+	                <a href="#novelty" class="nav-link m-2 menu-item">Novelty</a>
 	            </li>
 							<li class="nav-item">
-	                <a href="#" class="nav-link m-2 menu-item">Inventors</a>
+	                <a href="#inventors" class="nav-link m-2 menu-item">Inventors</a>
 	            </li>
 	            <li class="nav-item">
-	                <a href="#" class="nav-link m-2 menu-item">Contact</a>
+	                <a href="#contact" class="nav-link m-2 menu-item">Contact</a>
 	            </li>
 	        </ul>
 				</span>
@@ -63,7 +63,7 @@
 		</div>
 	</secion>
 
-	<section class="about-section">
+	<section class="about-section" id="about">
 		<div class="container">
 			<div class="row d-flex align-items-stretch">
 				<div class="col-5">
@@ -85,7 +85,7 @@
 		</div>
 	</section>
 
-	<section class="technology-section">
+	<section class="technology-section" id="tech">
 		<div class="container">
 			<div class="row d-flex align-items-stretch">
 				<div class="row">
@@ -106,7 +106,7 @@
 		</div>
 	</section>
 
-	<section class="novelty-section">
+	<section class="novelty-section" id="novelty">
 		<div class="container">
 			<div class="row d-flex align-items-stretch">
 				<div class="col-5">
@@ -127,7 +127,7 @@
 		</div>
 	</section>
 
-	<section class="inventors-section">
+	<section class="inventors-section" id="inventors">
 		<div class="container pb-5 mb-5">
 			<div class="row">
 				<div class="col-12">
@@ -174,7 +174,7 @@
 			</div>
 		</div>
 	</section>
-	<footer>
+	<footer id="contact">
 		<div class="container">
 			<div class="row">
 				<div class="col-12 col-md-3">

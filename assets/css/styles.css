@@ -11,6 +11,10 @@ footer{
 .navbar-expand-lg .navbar-nav .nav-link{
   padding-right: 1.4rem;
     padding-left: 1.4rem;
+    color: #0B0062;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+  color: #0B0062;
 }
 .about-section, .technology-section, .novelty-section{
   margin: 6rem 0rem;
