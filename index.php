@@ -51,7 +51,14 @@
 						<div class="row d-flex align-items-center">
 							<div class="col-5 offset-1">
 								<span style="font-family: gillsans"><h1 style="color:#0B0062;font-size:74px" class="semi";><i>de novo</i> Cell</h1>
-									<h3 style="color:#0B0062;font-size:30px" class="pb-5 mb-5">--------------Chemical production of induced pluripotent stem cells</h3></span>
+								<div class="row d-flex align-items-center pb-5 mb-5">
+									<div class="col-4">
+										<hr class="divider">
+									</div>
+									<div class="col-8">
+										<h3 class="subtitle">Chemical production of induced pluripotent stem cells</h3></span>
+									</div>
+								</div>
 							</div>
 							<div class="col-6">
 								<img src="assets/img/cell.svg" width="100%" alt="">

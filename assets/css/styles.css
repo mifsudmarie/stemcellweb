@@ -58,3 +58,14 @@ footer{
 .semi {
     font-weight: 600;
 }
+.subtitle{
+  color: #0B0062;
+  font-size: 1.4rem;
+  padding-bottom: 0rem;
+  margin-bottom: 0rem;
+}
+hr.divider{
+  width: 100%;
+  height: 2px;
+  background-color: #0B0062;
+}
