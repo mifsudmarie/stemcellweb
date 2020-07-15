@@ -8,3 +8,49 @@ footer{
   color: #0B0062;
   padding: 5rem 0rem 4rem;
 }
+.navbar-expand-lg .navbar-nav .nav-link{
+  padding-right: 1.4rem;
+    padding-left: 1.4rem;
+}
+.about-section, .technology-section, .novelty-section{
+  margin: 6rem 0rem;
+  position: relative;
+}
+.content-section{
+  padding: 4.0rem 5rem 7.5rem 5.5rem;
+  height: 100%;
+}
+.about-content, .novelty-content{
+  background-color: #E4EBF5;
+}
+.technology-content{
+  background-color: #0B0062;
+}
+.side-left{
+  left: 0;
+  top: 0;
+  position: absolute;
+  width: 45.835%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.side-right{
+  right: 0;
+  top: 0;
+  position: absolute;
+  width: 45.835%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.home {
+    font-family: 'gillsans';
+}
+.semi {
+    font-weight: 600;
+}
