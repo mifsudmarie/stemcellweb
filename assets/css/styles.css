@@ -6,22 +6,24 @@
 footer{
   background-color: #E4EBF5;
   color: #0B0062;
-  padding: 5rem 0rem 4rem;
+  padding: 3rem 0rem 2.5rem;
 }
 .navbar-expand-lg .navbar-nav .nav-link{
   padding-right: 1.4rem;
     padding-left: 1.4rem;
     color: #0B0062;
+
+
 }
 .navbar-expand-lg .navbar-nav .nav-link:hover{
-  color: #0B0062;
+  color: #E4EBF5;
 }
 .about-section, .technology-section, .novelty-section{
   margin: 6rem 0rem;
   position: relative;
 }
 .content-section{
-  padding: 4.0rem 5rem 7.5rem 5.5rem;
+  padding: 4rem 4rem 3.0rem 5.0rem;
   height: 100%;
 }
 .about-content, .novelty-content{
@@ -32,24 +34,24 @@ footer{
 }
 .side-left{
   left: 0;
-  top: 0;
+  top: 100px;
   position: absolute;
   width: 45.835%;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 100%;
+  height: calc(100% - 100px);
 }
 
 .side-right{
   right: 0;
-  top: 0;
+  top: 100px;
   position: absolute;
   width: 45.835%;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 100%;
+  height: calc(100% - 100px);
 }
 
 .home {
@@ -58,14 +60,77 @@ footer{
 .semi {
     font-weight: 600;
 }
-.subtitle{
+.subtitle {
   color: #0B0062;
-  font-size: 1.4rem;
+  font-size: 2rem;
   padding-bottom: 0rem;
   margin-bottom: 0rem;
 }
+
+.blended-col {
+    margin-left: -15px;
+ }
+
+ html {
+   scroll-behavior: smooth;
+ }
+
 hr.divider{
   width: 100%;
   height: 2px;
   background-color: #0B0062;
+}
+.inventor-position{
+  position: absolute;
+  transform-origin: 0 0;
+  transform: rotate(90deg);
+  width: 200px;
+  font-size: 18px;
+  left: 75%;
+  top: 7.55rem;
+}
+.inventor-position hr{
+  height: 1px;
+  background-color: white;
+  width: 70px;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 16px;
+
+}
+
+.blue-overlay{
+  box-shadow: inset 2000px 0 0 0 rgba(15, 24, 98, 0.42);
+}
+
+.light-blue-overlay{
+  box-shadow: inset 2000px 0 0 0 rgba(127, 134, 154, 0.52);
+}
+
+.grey-overlay {
+  filter: grayscale(1) contrast(1);
+}
+.navbar-default{
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
+#home{
+  padding-top: 91px;
+}
+
+#inventors, #novelty, #tech {
+  padding-top: 100px;
+  margin-top: -40px;
+}
+
+
+#about{
+  padding-top: 100px;
+  margin-top: 0px;
 }
