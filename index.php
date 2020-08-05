@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -104,9 +104,9 @@
 					<div class="content-section about-content">
 						<span style="font-family: gillsans"> <h2 style="color:#0B0062; font-size:34px" class="mb-4">About</h2></span>
 						<span style="font-family: hoeflertext">
-							<p style="color:#0B0062;font-size:20px">	- spin- out from the university <br>
-								- licensing to research market <br>
-								- development on protocol to infiltrate clinical market</p></span>
+							<p style="color:#0B0062;font-size:18px">De Novo Cell ltd is a University of Malta spinout registered in Malta, with ownership shared between the inventors, Dr Pierre Schembri Wismayer and Dr Ila Tewari Jasra, and the University of Malta. The company plans to research further sources of blood which will result in protectable intellectual property of extremely high value. <br><br>
+								At this stage the company is licensing the technology relating to the chemical induction of cord blood into induced pluripotent stem cells (iPSCs) to the Research Market. This includes licensing the technology for the production of kits to assist scientists with all of the tools necessary to carry out their research. <br><br>
+								Further on in the pipeline, the company will develop the technology to include peripheral blood and urine cells as a source. It will also carry out development to infiltrate the clinical market in specific areas with the aim to develop future stem cell therapeutics.</p></span>
 					</div>
 				</div>
 			</div>
@@ -123,7 +123,7 @@
 						<div class="content-section technology-content">
 							<span style="font-family: gillsans"> <h2 style="color:#FFFFFF; font-size:34px" class="mb-4">Technology</h2></span>
 							<span style="font-family: hoeflertext">
-							<p style="color:#FFFFFF;font-size:20px">	Our technology, involves a protocol for rapid cheap production of induced pluripotent stem cells without any genetic modification and within less than a month at a rate of about 90-100% conversion from cord blood mononuclear cells, as opposed to rates of 1% internationally. Apart from that, the agents required for conversion are cheap and very readily available, only requiring repurposing.
+							<p style="color:#FFFFFF;font-size:18px">	Our technology, involves a protocol for rapid cheap production of induced pluripotent stem cells without any genetic modification and within less than a month at a rate of about 90-100% conversion from cord blood mononuclear cells, as opposed to rates of 1% internationally. Apart from that, the agents required for conversion are cheap and very readily available, only requiring repurposing.
 							<br><br> This method is also being extended to include peripheral blood cells and will be further tested on fibroblasts. Developing a similarly successful rate of conversion will help to massively enhance the potential benefits due to being able to make these cells easily from any adult. </p>
 						</span>
 						</div>
@@ -145,7 +145,7 @@
 					<div class="content-section about-content">
 						<span style="font-family: gillsans"> <h2 style="color:#0B0062; font-size:34px" class="mb-4">Novelty</h2></span>
 						<span style="font-family: hoeflertext">
-							<p style="color:#0B0062;font-size:20px">	iPSCs could provide rapid availability of cells derived from each individual to produce any tissue types needed even possibly in advance, for prophylaxis. These cells would be the patient’s own cells, thus avoiding both rejection as well as dangerous immune invisibility.  The rapid development at low cost would make these cells viable both as widespread therapeutics as well as for scientific use, experimentation and research purposes.
+							<p style="color:#0B0062;font-size:18px">	iPSCs could provide rapid availability of cells derived from each individual to produce any tissue types needed even possibly in advance, for prophylaxis. These cells would be the patient’s own cells, thus avoiding both rejection as well as dangerous immune invisibility.  The rapid development at low cost would make these cells viable both as widespread therapeutics as well as for scientific use, experimentation and research purposes.
 							<br><br> This brings the idea of personalised induced pluripotent stem cells into the realm of general public, for present or future regenerative medicine possibilities, which could target diseases such as Parkinsons disease, kidney disease and heart failure to name a few.
 						</p></span>
 					</div>
@@ -174,27 +174,53 @@
 										</div>
 									</div>
 									<div class="col-3">
-											<img class="mt-5 ml-3" src="assets/img/pierresw.svg" height="350px"/>
+											<img class="mt-5 pt-3 ml-1" src="assets/img/pierresw.svg" height="360px"/>
 									</div>
 
-									<div class="col-5 offset-1">
+									<div class="col-6 ml-4 pr-4">
 										<span style="font-family: hoeflertext">
 										<b><h3 class="mb-4">Prof. Pierre Schembri Wismayer</h3></b>
-										<p class="mb-5"; style="font-size:18px">Prof Schembri-Wismayer has been involved in bringing in more than 1 million worth of grants funding to the University.. His research develops novel methods of immunotherapy and differentiation as cancer therapeutics. He is also developing new methods of producing pluripotent stem cells. He has a strong interest in anatomical biomechanics, where he is developing a novel hip joint, which is also patented. He supervises and has supervised several Ph.D’s and Masters students. He is regular post-graduate thesis examiner. He teaches undergraduate students in the Faculty of Medicine and Surgery and the Faculty of Health sciences in Gross Anatomy and Cell Biology. He also contributes to a number of post-graduate medical and scientific courses.</p>
+										<p class="mb-5"; style="font-size:18px">Prof Pierre Schembri-Wismayer qualified as a medical doctor from the University of Malta in 1991. He then pursued his PhD in Molecular and
+Cellular Oncology, at the Beatson Institute for Cancer Research in affiliation
+with Glasgow University in the UK.
+He is presently Associate Professor at the Faculty of Medicine and Surgery and teaches Clinical and Applied Anatomy as well as Cell Biology. <BR> <br>
+His departmental research includes developing novel methods of
+immunotherapy and virotherapy as well as malignant cell differentiation as
+cancer therapeutics. He has developed new methods of producing induced
+pluripotent stem cells together with Dr Ila Tewari. He has a strong
+interest in anatomical biomechanics, and has developed a totally novel hip joint
+prosthesis design in collaboration with Engineering colleagues. This has been
+patented, as have been other medical devices involved in surgery, both
+orthopedic and general.</p>
 										</span>
 									</div>
 								</div>
 	  						<div class="mt-5 pt-3 inventor row">
-						    	<div class="col-5 offset-1">
+						    	<div class="col-6 offset-1">
 										<span style="font-family: hoeflertext">
 						    		<b><h3 class="mb-4 pl-3"> Dr Ila Tewari Jasra</h3></b>
-										<p class="mb-5 pl-3"; style="font-size:18px">Dr Ila Tewari Jasra is an experienced researcher with a demonstrated history of working in the higher education industry. Skilled in Cell Culture, Flow Cytometry, Clinical Trials, Transfection, and culturing embryonic stem Cells. Strong research professional with a Master’s degree focused in Medical Microbiology, Bacteriology from Amity University Noida, PhD from University of Malta on “Derivation of induced pluripotent stem cells from cord blood".</p>
+										<p class="mb-5 pl-3"; style="font-size:18px">Dr. Ila Tewari Jasra
+											is an experienced researcher with demonstrated
+											history of working with commercial stem cell industries.
+											She has studied the role of small molecules in generation
+											of pluripotent stem cells as a source. She is highly skilled
+											in cell culture and has vast experience in stem cell culture,
+											iPSCs and ESC culture in serum free and serum containing media,
+											which also includes a number of specialized techniques such as
+											making embryoid bodies, flow cytometry, RNA Analysis, RT-PCR. <BR> <br>
+												She also has extensive experience in working in a GMP grade environment
+												following all GLP and GCP protocols. Strong research professional with
+												a Master's degree focusing on Medical Microbiology from
+												Amity University, Noida.
+												Having an insatiable passion for research she has earned her
+												PhD from the University of Malta on "Derivation of Induced Pluripotent
+												Stem cells from Cord Blood".</p>
 									</span>
 									</div>
-									<div class="col-3 offset-1">
-											<img class="mb-5 pb=5" src="assets/img/pierresw.svg" height="350px"/>
+									<div class="col-3 pl-5 ml-3 mr-4 mt-2">
+											<img class="mt-5 pt=5" src="assets/img/ila.png" height="350px"/>
 									</div>
-									<div class="col-1">
+									<div class="col-1 mt-3">
 										<div class="inventor-position">
 											<hr>
 											Co-Inventor
